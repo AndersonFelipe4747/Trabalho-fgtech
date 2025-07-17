@@ -1615,11 +1615,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ander\\Desktop\\fgtech\\fgtech.csproj",
+      "projectUniqueName": "E:\\IFRO (Matérias)\\Análise e Desenvolvimento de Sistemas\\Matérias (2025)\\Programação Orientada a Objetos\\Trabalho de POO\\trabalho-fgtech\\fgtech\\fgtech.csproj",
       "projectName": "fgtech",
-      "projectPath": "C:\\Users\\ander\\Desktop\\fgtech\\fgtech.csproj",
+      "projectPath": "E:\\IFRO (Matérias)\\Análise e Desenvolvimento de Sistemas\\Matérias (2025)\\Programação Orientada a Objetos\\Trabalho de POO\\trabalho-fgtech\\fgtech\\fgtech.csproj",
       "packagesPath": "C:\\Users\\ander\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ander\\Desktop\\fgtech\\obj\\",
+      "outputPath": "E:\\IFRO (Matérias)\\Análise e Desenvolvimento de Sistemas\\Matérias (2025)\\Programação Orientada a Objetos\\Trabalho de POO\\trabalho-fgtech\\fgtech\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Visual Studio\\Visual Studio (Componentes)\\NuGetPackages"

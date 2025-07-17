@@ -108,7 +108,7 @@ namespace FGTechConsole
             if (!int.TryParse(Console.ReadLine(), out int id))
             {
                 Console.ForegroundColor = ConsoleColor.Red;
-                Console.WriteLine("ID INVÁLIDO!");
+                Console.WriteLine("ID INVÁLIDO!"); //validar id 
                 Console.ResetColor();
                 Thread.Sleep(2000);
                 return;

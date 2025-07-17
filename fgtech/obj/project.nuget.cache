@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XQYaY3GzT1A=",
+  "dgSpecHash": "+j0zPHOIJHo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ander\\Desktop\\fgtech\\fgtech.csproj",
+  "projectFilePath": "E:\\IFRO (Matérias)\\Análise e Desenvolvimento de Sistemas\\Matérias (2025)\\Programação Orientada a Objetos\\Trabalho de POO\\trabalho-fgtech\\fgtech\\fgtech.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ander\\.nuget\\packages\\bouncycastle.cryptography\\2.5.1\\bouncycastle.cryptography.2.5.1.nupkg.sha512",
     "C:\\Users\\ander\\.nuget\\packages\\google.protobuf\\3.30.0\\google.protobuf.3.30.0.nupkg.sha512",
